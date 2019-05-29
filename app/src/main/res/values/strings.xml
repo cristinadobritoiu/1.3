@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyApplication 1.3</string>
+    <string name="ageCheck">Är du 20 år eller äldre?</string>
+    <string name="checked">JAG ÄR 20 ÅR ELLER ÄLDRE</string>
+    <string name="info">Denna webbsida innehåller information om alkoholdrycker. För inköp och besök på denna webbplats måste du vara 20 år eller äldre.</string>
+    <string name="info1">Denna app innehåller information om alkoholdrycker. För inköp och besök på denna app måste du vara 20 år eller äldre.</string>
+    <string name="info2">För dig under 20</string>
+    <string name="info3">Enligt alkohollagen och Konsumentverkets allmänna råd om marknadsföring av alkohol till konsumenter ska särskild måttfullhet iakttas vid all marknadsföring av alkoholdryck till konsumenter. Det är vidare enligt alkohollagen förbjudet att rikta marknadsföringen särskilt till personer som inte har fyllt 25 år.</string>
+    <string name="checked2">JAG ÄR UNDER 20 ÅR</string>
+    <string name="information">Enligt alkohollagen och Konsumentverkets allmänna råd om marknadsföring av alkohol till konsumenter ska särskild måttfullhet iakttas vid all marknadsföring av alkoholdryck till konsumenter. Det är vidare enligt alkohollagen förbjudet att rikta marknadsföringen särskilt till personer som inte har fyllt 25 år.</string>
+    <string name="exit">Stäng App</string>
+</resources>
